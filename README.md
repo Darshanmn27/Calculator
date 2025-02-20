@@ -10,8 +10,7 @@ A simple and responsive calculator web application built using **HTML**, **CSS**
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [Demo](#demo)
-- [License](#license)
+
 
 ## About the Project
 This project is a simple calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It is styled with CSS for a clean and modern look and is fully functional using JavaScript.
@@ -59,26 +58,16 @@ Calculator-Project/
 
 ## Screenshots
 ### Calculator Interface
-![Calculator Screenshot](screenshots/Screenshot-2025-02-21-044136.png)
+![Calculator Screenshot](interface.png)
 
 ### Number Input Example
-![Number Input](screenshots/Screenshot-2025-02-21-044207.png)
+![Number Input](number.png)
 
-### Basic Calculation Example
-![Calculation Example](screenshots/Screenshot-2025-02-21-044214.png)
+
 
 ### Division by Zero Error Handling
-![Division by Zero](screenshots/Screenshot-2025-02-21-044239.png)
+![Division by Zero](zero.png)
 
-### Clear Functionality
-![Clear Button](screenshots/Screenshot-2025-02-21-044243.png)
 
-### Responsive View
-![Responsive View](screenshots/Screenshot-2025-02-21-044148.png)
 
-## Demo
-You can view a live demo of this calculator [here](https://darshanmn.github.io/calculator-project/).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
